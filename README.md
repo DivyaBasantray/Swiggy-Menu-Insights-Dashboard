@@ -1,2 +1,2 @@
-# Swiggy-Menu-Insights-Dashboard
+# Swiggy-Reastaurants-Analysis-Dashboard
 End-to-end analysis of Swiggy restaurant menu data using SQL, Python, and Power BI — uncovering pricing and rating trends across India 🍴
