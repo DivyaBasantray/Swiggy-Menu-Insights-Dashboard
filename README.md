@@ -17,7 +17,7 @@
 ---
 
 ## 3. **Tech Stack (Tools Used & Why)**  
-🔹 **SQL (MySQL)** - Used for **data cleaning, handling missing values.**
+🔹 **SQL (MySQL)** - Used for **data cleaning, handling missing values.**  
 🔹 **Python (Jupyter Notebook)** – Used for **Exploratory Data Analysis (EDA) and preprocessing**, **charts for visualization** and exporting the final CSV for Power BI.  
 🔹 **Power BI** – Used for **data modeling, visualization, and storytelling**, creating an interactive dashboard for quick insights.  
 🔹 **Excel/CSV** – Dataset source format.  
