@@ -53,7 +53,6 @@ To provide Swiggy and restaurant owners with **data-driven insights** that helps
 - **Rows:** 197,430 → Cleaned to 133,955  
 - **Columns:** 7  
 - **Dataset Source:** [Swiggy Restaurant Data (India) – Kaggle](https://www.kaggle.com/datasets/nikhilmaurya1324/swiggy-restaurant-data-india/data)  
-- **Created by:** [Divya Basantray](https://github.com/DivyaBasantray)  
 - **Tools Used:** SQL | Python | Power BI  
 - **Project Type:** Data Analytics | Data Visualization  
 
