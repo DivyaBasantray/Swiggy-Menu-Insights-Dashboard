@@ -1,4 +1,4 @@
-# 🍽️ Swiggy Restaurants Insights Dashboard  
+# Swiggy Restaurants Insights Dashboard  
 
 ## 1. **Project Objective**  
 - The goal of this project was to analyze Swiggy’s restaurant menu data from across India to understand **pricing trends, customer ratings, and restaurant performance**.  
@@ -27,20 +27,20 @@
 
 ## 4. **Dashboard Purpose & Features**  
 
-### 🎯 **Business Problem**  
+### **Business Problem**  
 Swiggy offers a massive variety of dishes and restaurants, but understanding customer preferences and pricing patterns across Indian cities can be complex.  
 The business challenge was to identify:  
 - **Which price ranges attract more customers?**  
 - **Which cities or restaurants have higher satisfaction?**
 - **How pricing influences customer ratings?**
 
-### 🧭 **Goal of the Dashboard**  
+### **Goal of the Dashboard**  
 To provide Swiggy and restaurant owners with **data-driven insights** that helps in:  
 - **Optimizing menu pricing.**  
 - **Understanding city-wise customer preferences.**  
 - **Improving service and food quality based on feedback patterns.**
 
-### 💡 **Dashboard Features**  
+### **Dashboard Features**  
 - Interactive slicers by **City** and **Rating.**  
 - KPIs highlighting total ratings, average price, and dish counts.
 - Price distribution analysis across bins.
