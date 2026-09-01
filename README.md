@@ -1,4 +1,4 @@
-# Swiggy Restaurants Insights Dashboard  
+# Swiggy Restaurants Insights Dashboard
 
 ## 1. **Project Objective**  
 - The goal of this project was to analyze Swiggy’s restaurant menu data from across India to understand **pricing trends, customer ratings, and restaurant performance**.  
